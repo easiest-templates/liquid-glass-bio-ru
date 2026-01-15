@@ -11,4 +11,6 @@
 - Социальные иконки
 - Glassmorphism дизайн
 
+```
 "tags": ["hero", "glass", "creative", "animations"]
+```
