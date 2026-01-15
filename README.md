@@ -1,48 +1,14 @@
-![Preview](https://cdn.poehali.dev/templates/liquid-glass-bio-ru/preview.jpg)
+# GlassLinks — визитка со стеклянным эффектом
 
-# GlassLinks - Liquid Glass Bio Template
+![Preview](https://cdn.poehali.dev/templates/liquid-glass-bio-ru/preview-ru.jpg)
 
-`tags: ["hero", "glass", "creative"]`
+Стильная страница-визитка в стиле "link in bio" с эффектом матового стекла (glassmorphism). Анимированный градиентный фон и полупрозрачные карточки создают современный премиальный вид. Идеально для блогеров, фрилансеров и креативщиков.
 
-Шаблон персональной страницы со ссылками с эффектом жидкого стекла.
+Включает:
+- Профиль с аватаром
+- Карточки ссылок с hover-эффектами
+- Анимированный фон
+- Социальные иконки
+- Glassmorphism дизайн
 
-## Технологии
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Vite
-
-## Установка
-
-```bash
-npm install
-```
-
-## Разработка
-
-```bash
-npm run dev
-```
-
-## Сборка
-
-```bash
-npm run build
-```
-
-## Настройка
-
-Отредактируйте файл `src/pages/LinkBioPage.tsx`:
-
-- `links` - массив ссылок для отображения
-- `socials` - массив социальных сетей в футере
-- `name` - имя профиля
-- `bio` - описание профиля
-- `imageUrl` - путь к аватару
-- `copyright` - текст копирайта
-
-## Лицензия
-
-MIT
+"tags": ["hero", "glass", "creative", "animations"]
